@@ -1,1 +1,2 @@
-# Class-46-game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
